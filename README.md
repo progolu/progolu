@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [Your Name], a passionate full-stack developer with expertise in various modern web and mobile technologies. Here's a bit more about me:
+I'm Patrick Akanni, a passionate full-stack Engineer with expertise in various modern web and mobile technologies. Here's a bit more about me:
 
 ![My Skills](https://via.placeholder.com/800x400?text=Your+Skills+Image)
 
@@ -27,11 +27,12 @@ I'm [Your Name], a passionate full-stack developer with expertise in various mod
 - Projects involving payment integration, user authentication, or e-commerce platforms
 
 ### 📫 How to Reach Me:
-- Email: [youremail@example.com](mailto:youremail@example.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- Email: [youremail@example.com](mailto:akanniolusegun5@gmail.com)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/olusegunakanni)
+- Portfolio: [yourportfolio.com](https://devpat.vercel.app)
 
 ### ⚡ Fun Fact:
+- I love cooking.
 - I love experimenting with dark and light mode designs for seamless user experience!
 
 ---
