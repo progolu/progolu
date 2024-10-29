@@ -3,6 +3,7 @@
 I'm Patrick Akanni, a passionate full-stack Engineer with expertise in various modern web and mobile technologies. Here's a bit more about me:
 
 ![My Skills](https://via.placeholder.com/800x400?text=Your+Skills+Image)
+![My Skills](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=progolu&theme=default)
 
 ### 🚀 Skills & Expertise
 - **Frontend**: React, Next.js, TypeScript, Tailwind CSS, Redux, Zustand, Ant Design
