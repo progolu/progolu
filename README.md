@@ -81,4 +81,5 @@ I'm Patrick Akanni, a passionate full-stack Engineer with expertise in various m
 ---
 
 🔗 Check out some of my recent projects and feel free to explore my code repositories!
+Loading....
 
