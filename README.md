@@ -72,9 +72,9 @@ AWS
 - Projects involving payment integration, user authentication, or e-commerce platforms
 
 ### 📫 How to Reach Me:
-- Email: [youremail@example.com](mailto:akanniolusegun5@gmail.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/olusegunakanni)
-- Portfolio: [yourportfolio.com](https://devpat.vercel.app)
+- Email: [Email](mailto:akanniolusegun5@gmail.com)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/olusegunakanni)
+- Portfolio: [Portfolio](https://devpat.vercel.app)
 
 ### ⚡ Fun Fact:
 - I love cooking.
