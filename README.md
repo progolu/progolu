@@ -83,5 +83,5 @@ AWS
 ---
 
 🔗 Check out some of my recent projects and feel free to explore my code repositories!
-Loading....
+Loading...
 
