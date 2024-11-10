@@ -63,6 +63,7 @@ AWS
 ### 💬 Ask Me About:
 - Full-stack development
 - Microservice architecture
+- Patent API architecture and third party API Integration
 - Frontend & Backend performance optimization
 
 ### 🤝 Looking to Collaborate On:
