@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Profile views](https://komarev.com/ghpvc/?username=progolu&color=blue)
 
 I'm Patrick Akanni, a passionate full-stack Engineer with expertise in various modern web and mobile technologies. Here's a bit more about me:
 
